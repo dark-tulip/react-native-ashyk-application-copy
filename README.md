@@ -1,4 +1,4 @@
-# react-native-ashyk-application-copy
+# Ashyk application page copy on React Native
 program emulates the main screen of ashyk application
 <br>developed as my first program on React Native
 
