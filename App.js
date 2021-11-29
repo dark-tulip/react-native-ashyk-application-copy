@@ -98,7 +98,7 @@ export default function App() {
             </View>
             {/* Блок статуса */}
             <View style={styles.status}>
-                <Blink duration="1200"><Text style={styles.status_text}>Безопасный</Text></Blink>
+                <Blink duration={1200}><Text style={styles.status_text}>Безопасный</Text></Blink>
                 <Text style={styles.status_normal_text}>Не имеет ограничений</Text>
                 <Text style={styles.status_normal_text}>ПЦР-тест отрицательный{"\n"}</Text>
                 <Text style={styles.status_normal_text_date}>Срок действия статуса до: 03.09.2022</Text>
