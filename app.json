@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "ashyq",
+    "name": "Ashyq",
     "slug": "ashyq",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/ashyq_icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/ashyq_icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,9 +21,10 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/ashyq_icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.tantel.ashyq"
     },
     "web": {
       "favicon": "./assets/favicon.png"
