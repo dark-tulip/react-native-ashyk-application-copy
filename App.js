@@ -115,7 +115,7 @@ export default function App() {
                 <Text style={styles.about_user_info}>ИИН/БИН организации</Text>
                 <Text style={styles.user_id}>691024402078</Text>
             </View>
-            {/* Кнопка вернуться на главную Каспи */}
+            {/* Кнопка вернуться на главную */}
             <View>
                 <TouchableOpacity style={styles.go_back_button} onPress={createButtonAlert}>
                     <Text style={styles.go_back_button_text}>ВЕРНУТЬСЯ НА ГЛАВНУЮ KASPI.KZ</Text>
