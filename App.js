@@ -91,7 +91,7 @@ export default function App() {
 
     return (
         <View style={styles.container}>
-            {/* Заголовок - header приложения */}
+                {/* Заголовок - header приложения */}
             <View style={styles.header}>
                 <AntDesign name="arrowleft" size={28} color="#F14635" style={{ display: "flex", marginTop: 20 }} />
                 <Text style={styles.header_text}>ASHYQ. Статус по коронав...</Text>
