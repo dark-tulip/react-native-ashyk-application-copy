@@ -5,6 +5,8 @@ Program emulates the main screen of ashyk application
 firstly install required dependencies
 <br>https://docs.expo.dev/get-started/installation/
 
+```sudo npm install expo```
+
 to run it on Android:<br>
 ```sudo expo start```
 then press key where to run
