@@ -9,6 +9,7 @@ firstly install required dependencies
 
 to run it on Android:<br>
 ```sudo expo start```
+
 then press key where to run
 
 or use Expo Go application to run on your own device
