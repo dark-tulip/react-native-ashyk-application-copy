@@ -1,4 +1,7 @@
 # Ashyk application page copy on React Native
+
+Костыльно собранная програмка на RN 
+
 Program emulates the main screen of ashyk application
 <br>developed as my first program on React Native
 
